@@ -1,16 +1,25 @@
-## Hi there 👋
+# Papá's Stories
 
-<!--
-**papas-stories/papas-stories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free bilingual children's storybooks for single dads and non-traditional families.
 
-Here are some ideas to get you started:
+## Structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+/books.json        ← Book database (add new books here)
+/books/            ← Interactive HTML storybooks
+/covers/           ← Book cover images
+/images/           ← Story illustrations
+```
+
+## How to add a new book
+
+1. Add the storybook HTML file to `/books/`
+2. Add the cover image to `/covers/`
+3. Add story illustrations to `/images/`
+4. Add an entry to `books.json`
+
+The website reads from `books.json` and updates automatically.
+
+## Live site
+
+https://papas-stories.github.io

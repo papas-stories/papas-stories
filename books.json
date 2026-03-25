@@ -1,0 +1,17 @@
+[
+  {
+    "id": "el-deseo",
+    "title_es": "El Deseo Que Se Hizo Realidad",
+    "title_en": "The Wish That Came True",
+    "topic": "Surrogacy",
+    "topic_es": "Subrogación",
+    "ages": "1–3",
+    "languages": "Español & English",
+    "description_en": "A father tells his daughter the story of how she came to be — through love, a wish, and a very kind woman named Kenia.",
+    "description_es": "Un papá le cuenta a su hija la historia de cómo llegó al mundo — a través del amor, un deseo, y una mujer muy buena llamada Kenia.",
+    "cover": "covers/el-deseo.jpg",
+    "storybook_url": "books/el-deseo.html",
+    "author": "David",
+    "featured": true
+  }
+]
